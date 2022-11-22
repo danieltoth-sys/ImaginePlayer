@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "DevExpress.Win.Design/22.1.5": {},
+      "StounhandJ.AudioPlayer/1.2.1": {
+        "runtime": {
+          "lib/net472/AudioPlayer.dll": {
+            "assemblyVersion": "1.0.0.0",
+            "fileVersion": "1.0.0.0"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "DevExpress.Win.Design/22.1.5": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-qw9AVAjxt5P6++bGq6+mqPlqFu51YVsG+ThK/LXPtimYz98BXkcoeu1jZDLc+0vwcyQBm9GkgjLn9nA8HU+Gig==",
+      "path": "devexpress.win.design/22.1.5",
+      "hashPath": "devexpress.win.design.22.1.5.nupkg.sha512"
+    },
+    "StounhandJ.AudioPlayer/1.2.1": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-h+R03vUDOVKBVCtCgj0FILsrV85B0oPkE5yXHb8WuzDxGvX+ZgkNliFFjEEwx5nQhP2ZjwbXvC+q4PVojw7w6A==",
+      "path": "stounhandj.audioplayer/1.2.1",
+      "hashPath": "stounhandj.audioplayer.1.2.1.nupkg.sha512"
+    }
+  }
+}

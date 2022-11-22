@@ -6,6 +6,12 @@
     <Nullable>enable</Nullable>
     <UseWindowsForms>true</UseWindowsForms>
     <ImplicitUsings>enable</ImplicitUsings>
+    <StartupObject>ImaginePlayer.Program</StartupObject>
   </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="DevExpress.Win.Design" Version="22.1.5" />
+    <PackageReference Include="StounhandJ.AudioPlayer" Version="1.2.1" />
+  </ItemGroup>
 
 </Project>
