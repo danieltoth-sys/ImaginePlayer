@@ -1,12 +1,11 @@
 {
   "version": 2,
-  "dgSpecHash": "rWQNVBw+196NNt0UHKKbqfaSW3oXrG/EYK5wDkczMO76FgI9ql1VKomiDS7lZhawCl3xUwBTq7k6mwFGRbS3bA==",
+  "dgSpecHash": "/8JJw/xMtbxvHAdbh+AONHNTBi+WyC9m1U5NyFLO/4CwBbz/WEFAkx/lBe6jNcidTk5ZsTHwXEvAXfzlG7nKRg==",
   "success": true,
   "projectFilePath": "C:\\Users\\javor\\source\\repos\\ImaginePlayer\\ImaginePlayerMobile\\ImaginePlayerMobile.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\javor\\.nuget\\packages\\octane.xam.videoplayer\\3.1.0\\octane.xam.videoplayer.3.1.0.nupkg.sha512",
     "C:\\Users\\javor\\.nuget\\packages\\system.numerics.vectors\\4.5.0\\system.numerics.vectors.4.5.0.nupkg.sha512",
-    "C:\\Users\\javor\\.nuget\\packages\\xam.plugin.simpleaudioplayer\\1.6.0\\xam.plugin.simpleaudioplayer.1.6.0.nupkg.sha512",
     "C:\\Users\\javor\\.nuget\\packages\\xamarin.android.arch.core.common\\1.1.1.1\\xamarin.android.arch.core.common.1.1.1.1.nupkg.sha512",
     "C:\\Users\\javor\\.nuget\\packages\\xamarin.android.arch.core.runtime\\1.1.1.1\\xamarin.android.arch.core.runtime.1.1.1.1.nupkg.sha512",
     "C:\\Users\\javor\\.nuget\\packages\\xamarin.android.arch.lifecycle.common\\1.1.1.1\\xamarin.android.arch.lifecycle.common.1.1.1.1.nupkg.sha512",
